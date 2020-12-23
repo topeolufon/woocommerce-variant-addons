@@ -2,7 +2,7 @@
 /**
 Plugin Name: WooCommerce Variant Addons by Tope
 Author: Tope Olufon
-Author URI: http://www.xiungo.com/
+Author URI: http://www.topeolufon.com/
 Description: Add addons to variants
 Version: 1.0
 */
